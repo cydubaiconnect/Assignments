@@ -1,0 +1,234 @@
+body{
+    height: 100vh;
+    max-width: 100%;
+     background-image: linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,1)), url('Reg.png');
+     background-size: cover;
+     background-position: center;
+     padding-left: 5px;
+     padding-right: 5px;
+     padding-top: 20px;
+     background-repeat: none;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     line-height: 40px;
+     font-size: large;
+}
+.cy-img{
+  max-width: 150px;
+  border-radius: 100px;
+}
+.row-mtn{
+  text-align: center;
+}
+h1{
+  color: red;
+}
+
+.cboy-img{
+  width: 150px;
+  height: 200px;
+  border-radius: 80px;
+  margin-left: 80px;
+  
+  
+}
+.text-center, p{
+  color:white;
+  font-size: 20px;
+  align-items: center;
+  position: center;
+  display: inline-block;
+
+}
+.touch-me{
+  text-align: center;
+
+  
+  line-height: 34px;
+}
+.text-center{
+  color: red;
+}
+.life-ofme{
+  color: rgb(221, 173, 173);
+  text-align: center;
+  line-height: 34px;
+  
+  
+}
+h5{
+  font-size: 30px;
+  color: yellow;
+  text-align: center;
+  
+}
+h3, h4{
+  color: green;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+}
+span{
+  color: white;
+}
+footer{
+  color:red
+}
+
+.card-text{
+  color: white;
+  
+  display: inline-block;
+  font-size: 20px;
+  line-height: 40px;
+}
+.red-design{
+  display: inline-block;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+
+  .hero_title {
+      font-size: 25px;
+    color: #269238;
+    margin-top: 20px;
+  }
+  .hero_desc {
+      font-size: 20px;
+    color: #666d31;
+  }
+  .hero-text {
+      text-align: center;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+  }
+  .col-lg-6{
+    width: 350px;
+    
+  }
+  .form-control-1{
+    border-radius: 15px;
+    width: 200px;
+    height: 30px;
+    border-color: blue;
+  }
+  .form-controlmt-3{
+    border-radius: 15px;
+    width: 200px;
+    height: 30px;
+    border-color: blue;
+  }
+  .form-control{
+    width: 300px;
+    border-radius: 10px;
+    color: red;
+  }
+  .text-center1{
+    color: yellow;
+  }
+  
+.h1-1{
+    color: white;
+    font-size: 100px;
+}
+.shara-1{
+    color: white;
+    line-height: 15px;
+    font-size: 11px;
+}
+
+button{
+    border: 0;
+    border-radius: 12px;
+    margin-top: 15px;
+    color: #000;
+    font-size: 12px;
+    padding: 12px 0;
+    outline: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 180px;
+    cursor: pointer;
+}
+.card{
+    width: 200px;
+    height: 250px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    transition: transform 0.5s;
+   
+
+}
+  .submit-1{
+    width: 100px;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .form-controlmt-2{
+    width: 300px;
+    height: 30px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+  }
+  .right-1{
+    align-items: center;
+  }
+nav{
+        text-align: right;
+        flex: 1;
+        list-style: none;
+        padding-top: 20px;
+        padding-right: 30px;
+      }
+      li {
+        display: inline-block;
+        padding-left: 15PXpx;
+        padding-right: 15px;
+        color: white;
+        font-size: 16px;
+        
+  }
+  a{
+    list-style: none;
+    font-size: 20px;
+    text-decoration: none;
+    color: blue;
+  }
+
+  /* services section css */
+.servicesText.card {
+  height: 280px;
+  cursor: pointer;
+}
+.servicesIcon {
+  font-size: 16px;
+  text-align: center;
+  width: 100%;
+}
+
+
+.nav-1{
+  display: inline-block;
+  flex: 1;
+  text-align: right;
+}
+nav ul li{
+  display: inline-block;
+ margin-left: 60px;
+ list-style: none;
+}
+nav ul li a{
+  text-decoration: none;
+  font-size: 13px;
+  color: white;
+}

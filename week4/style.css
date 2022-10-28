@@ -1,0 +1,65 @@
+
+body {
+  box-sizing: border-box;
+   
+
+}
+main{
+  margin: auto;
+  display: flex;
+  width: 60%;
+   height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+@media (min-width: 375px) and (max-width: 1440px) {
+  body {
+    background-color: orange;
+    width: 100%;
+  }
+}
+  
+
+.sedan{
+  background: hsl(0, 100%, 74%);
+  width: 60%;
+  
+  
+
+
+}
+.suv{
+  background: hsl(154, 59%, 51%);
+  width: 60%;
+  
+}
+.luxury{
+  background: hsl(248, 32%, 49%);
+  width: 60%;
+}
+p{
+  padding: 30px;
+}
+
+button{
+  border-radius: 30px;
+  padding: 10px 18px;
+  margin-left: 25%;
+  margin-bottom: 10px;
+
+}
+h1{
+  font-size: 16px;
+  margin-left: 25%;
+  
+}
+img{
+  margin-left: 15%;
+  margin-top: 15px;
+  
+}
+
+
